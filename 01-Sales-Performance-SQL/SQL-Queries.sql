@@ -1,8 +1,7 @@
 -- RevoGrocers Sales Performance Analysis
--- Source: Revo FSDA assignment
--- SQL queries transcribed from the project presentation.
--- Note: The presentation did not contain the visible SQL for the repeat purchase
--- rate section or the cumulative top-user section, so those are not included here.
+-- Source: Revou FSDA assignment
+-- SQL Analyst
+
 
 -- 1. Highest-performing product categories by revenue after discount
 SELECT
