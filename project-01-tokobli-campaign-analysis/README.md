@@ -228,13 +228,23 @@ Potential follow-up analysis could include:
 
 ---
 
-## Deliverables
+## Analysis & Deliverables
+
+### Detailed Analysis
+
+The detailed exploratory data analysis, data cleaning, outlier identification, and campaign analysis were conducted in Google Sheets.
+
+**[View TokoBli Dataset & EDA →](https://docs.google.com/spreadsheets/d/1k7R4V9SUGNl7WO34ym2LZf-Tbr2FfJyIJRzw2vRiQc0/edit?usp=sharing)**
+
+### A/B Testing Analysis
+
+The A/B testing dataset, hypothesis testing, statistical calculations, and experiment analysis are available in Google Sheets.
+
+**[View A/B Testing Analysis →](https://docs.google.com/spreadsheets/d/17vQIwhizHAQurz9re-cN6sbnb7J7y-14dTDK-MhVwSk/edit?usp=sharing)**
 
 ### Presentation
 
-[View the full project presentation](./TokoBli_Campaign_Performance_Analysis.pdf)
-
----
+**[View the full project presentation →](./TokoBli_Campaign_Performance_Analysis.pdf)**
 
 ## Project Structure
 
