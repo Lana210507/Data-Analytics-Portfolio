@@ -244,7 +244,9 @@ The A/B testing dataset, hypothesis testing, statistical calculations, and exper
 
 ### Presentation
 
-**[View the full project presentation →](./TokoBli_Campaign_Performance_Analysis.pdf)**
+**[View the presentation in Google Slides →](https://docs.google.com/presentation/d/1eIFd0NZ_XhN3SHY0v0NThy2orZwiUHDE9bjH8OMZEU8/edit?usp=sharing)**
+
+**[Download the PDF version →](./TokoBli_Campaign_Performance_Analysis.pdf)**
 
 ## Project Structure
 
