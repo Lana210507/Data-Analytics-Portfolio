@@ -1,5 +1,5 @@
--- RevoGrocers Sales Performance Analysis
--- Source: Revou FSDA assignment
+-- SuperGrocers Sales Performance Analysis
+-- Source: Revou FSDA assignment project
 -- SQL Analyst
 
 
