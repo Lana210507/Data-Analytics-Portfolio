@@ -1,4 +1,4 @@
-# RevoGrocers Sales Performance Analysis
+# SuperGrocers Sales Performance Analysis
 
 ## Overview
 
@@ -41,10 +41,10 @@ The analysis used SQL techniques including:
 
 ## Recommendations
 
-- Prioritize inventory and marketing for the highest-performing categories.
-- Increase repeat purchases through loyalty programs and targeted promotions.
-- Use bundles and cross-selling to increase sales volume in lower-performing categories.
-- Maintain premium pricing for high-value categories when customer demand remains stable.
+- Prioritize inventory and promotional investment in the top three revenue categories.
+- Introduce loyalty incentives and cross-category offers to increase purchase frequency
+- Test targeted discounts and evaluate premium pricing against demand and margins.
+- Use targeted promotions and bundles to grow selected underperforming categories.
 
 ## Disclaimer
 
